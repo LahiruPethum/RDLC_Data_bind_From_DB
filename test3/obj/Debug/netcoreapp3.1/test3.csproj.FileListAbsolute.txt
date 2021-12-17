@@ -1,0 +1,154 @@
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\appsettings.json
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.exe
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.deps.json
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.runtimeconfig.json
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.runtimeconfig.dev.json
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.pdb
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.Views.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\test3.Views.pdb
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.NETCore.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.csproj.AssemblyReference.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\RdlCompile.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\RdlCompile.compiled
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.AssemblyInfoInputs.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.AssemblyInfo.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.csproj.CoreCompileInputs.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.MvcApplicationPartsAssemblyInfo.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorAssemblyInfo.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorAssemblyInfo.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\staticwebassets\test3.StaticWebAssets.Manifest.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\staticwebassets\test3.StaticWebAssets.xml
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\scopedcss\bundle\test3.styles.css
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.TagHelpers.input.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.TagHelpers.output.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorCoreGenerate.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorTargetAssemblyInfo.cache
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorTargetAssemblyInfo.cs
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.Views.pdb
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.csproj.CopyComplete
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.dll
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.pdb
+E:\.net\test3\test3\obj\Debug\netcoreapp3.1\test3.genruntimeconfig.cache
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\wwwroot\Reports\rptEmployee.rdlc
+E:\.net\test3\test3\bin\Debug\netcoreapp3.1\wwwroot\Reports\rptEmployeeDetails.rdlc
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\appsettings.json
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.exe
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\wwwroot\Reports\rptEmployee.rdlc
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\wwwroot\Reports\rptEmployeeDetails.rdlc
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.deps.json
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.runtimeconfig.json
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.runtimeconfig.dev.json
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.pdb
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.Views.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\test3.Views.pdb
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.NETCore.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.csproj.AssemblyReference.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\RdlCompile.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\RdlCompile.compiled
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.AssemblyInfoInputs.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.AssemblyInfo.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.csproj.CoreCompileInputs.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.MvcApplicationPartsAssemblyInfo.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorAssemblyInfo.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorAssemblyInfo.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\staticwebassets\test3.StaticWebAssets.Manifest.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\staticwebassets\test3.StaticWebAssets.xml
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\scopedcss\bundle\test3.styles.css
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.TagHelpers.input.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.TagHelpers.output.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorCoreGenerate.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorTargetAssemblyInfo.cache
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.RazorTargetAssemblyInfo.cs
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.Views.pdb
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.csproj.CopyComplete
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.dll
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.pdb
+E:\.net\RDLC Report worked\test3\test3\obj\Debug\netcoreapp3.1\test3.genruntimeconfig.cache

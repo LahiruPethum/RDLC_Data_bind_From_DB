@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test3", "test3\test3.csproj", "{A43CA90B-1174-4F34-99A8-3798EA233229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportDesign", "ReportDesign\ReportDesign.csproj", "{7553A90C-BA53-491E-984F-95B921DE23EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43CA90B-1174-4F34-99A8-3798EA233229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43CA90B-1174-4F34-99A8-3798EA233229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43CA90B-1174-4F34-99A8-3798EA233229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43CA90B-1174-4F34-99A8-3798EA233229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7553A90C-BA53-491E-984F-95B921DE23EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7553A90C-BA53-491E-984F-95B921DE23EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7553A90C-BA53-491E-984F-95B921DE23EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7553A90C-BA53-491E-984F-95B921DE23EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0A2A185-0394-4117-8CDA-8354F6F919FF}
+	EndGlobalSection
+EndGlobal
